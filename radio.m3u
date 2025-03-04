@@ -1,0 +1,421 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CMG-大湾区之声.png" group-title="总台",大湾区之声
+https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 tvg-name="经典音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/经典音乐广播.png" group-title="总台",经典音乐
+https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/经济之声.png" group-title="总台",经济之声
+https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CNR-老年之声.jpg" group-title="总台",老年之声
+https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CNR-民族之声.jpg" group-title="总台",民族之声
+https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/南海之声.jpg" group-title="总台",南海之声
+https://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CNR-神州之声.png" group-title="总台",神州之声
+https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CMG-文艺之声.jpg" group-title="总台",文艺之声
+https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CNR-香港之声.png" group-title="总台",香港之声
+https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/音乐之声.png" group-title="总台",音乐之声
+https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CNR-阅读之声.png" group-title="总台",阅读之声
+https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CMG-中国之声.jpg" group-title="总台",中国之声
+https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CMG-台海之声.png" group-title="总台",台海之声
+https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CMG-中国交通广播.jpg" group-title="总台",中国交通广播
+https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/CNR-中国乡村之声.jpg" group-title="总台",中国乡村之声
+https://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 tvg-name="华语环球" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/" group-title="总台",华语环球
+https://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 tvg-name="环球资讯" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/环球资讯.jpg" group-title="总台",环球资讯
+https://sk.cri.cn/905.m3u8
+#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/轻松调频.png" group-title="总台",轻松调频
+https://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-name="世界华声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/" group-title="总台",世界华声
+https://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 tvg-name="China Plus Radio" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/" group-title="总台",China Plus Radio
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-name="HITFM国际流行音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/central/HITFM.png" group-title="总台",HITFM国际流行音乐
+https://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-name="江西都市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jx/江西都市广播.jpg" group-title="江西",江西都市广播
+https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江西交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jx/江西交通广播.jpg" group-title="江西",江西交通广播
+https://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江西民生广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jx/江西民生广播.jpg" group-title="江西",江西民生广播
+https://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江西农村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jx/江西农村广播.png" group-title="江西",江西农村广播
+https://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江西音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jx/江西音乐广播.jpg" group-title="江西",江西音乐广播
+https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="江西新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jx/江西新闻广播.jpg" group-title="江西",江西新闻广播
+https://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽小说评书" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽小说评书广播.jpg" group-title="安徽",安徽小说评书
+https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽交通广播.png" group-title="安徽",安徽交通广播
+https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽经济广播.png" group-title="安徽",安徽经济广播
+https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽旅游广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽旅游广播.jpg" group-title="安徽",安徽旅游广播
+https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽农村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽农村广播.jpg" group-title="安徽",安徽农村广播
+https://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽生活广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽生活广播.jpg" group-title="安徽",安徽生活广播
+https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽戏曲广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽戏曲广播.png" group-title="安徽",安徽戏曲广播
+https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽音乐广播.jpg" group-title="安徽",安徽音乐广播
+https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ah/安徽之声.jpg" group-title="安徽",安徽之声
+https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="北京城市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/bj/北京城市广播.jpg" group-title="北京",北京城市广播
+https://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
+#EXTINF:-1 tvg-name="北京交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/bj/北京交通广播.jpg" group-title="北京",北京交通广播
+https://cnlive.cnr.cn/hls/bjjtgb.m3u8
+#EXTINF:-1 tvg-name="北京新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/bj/北京新闻广播.jpg" group-title="北京",北京新闻广播
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="北京音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/bj/北京音乐广播.jpg" group-title="北京",北京音乐广播
+https://cnlive.cnr.cn/hls/bjyygb.m3u8
+#EXTINF:-1 tvg-name="重庆都市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/cq/重庆都市广播.jpg" group-title="重庆",重庆都市广播
+https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/cq/重庆交通广播.png" group-title="重庆",重庆交通广播
+https://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/cq/重庆经济广播.jpg" group-title="重庆",重庆经济广播
+https://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/cq/重庆文艺广播.jpg" group-title="重庆",重庆文艺广播
+https://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/cq/重庆新闻广播.jpg" group-title="重庆",重庆新闻广播
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/cq/重庆音乐广播.png" group-title="重庆",重庆音乐广播
+https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="福建东南广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/fj/福建东南广播.png" group-title="福建",福建东南广播
+https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+#EXTINF:-1 tvg-name="福建都市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/fj/福建都市广播.png" group-title="福建",福建都市广播
+https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="福建交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/fj/福建交通广播.png" group-title="福建",福建交通广播
+https://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="福建财经961" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/fj/福建财经961.jpg" group-title="福建",福建财经961
+https://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="福建汽车音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/fj/福建音乐广播.jpg" group-title="福建",福建汽车音乐
+https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="福建新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/fj/福建新闻广播.jpg" group-title="福建",福建新闻广播
+https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="甘肃都市调频" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gs/甘肃都市调频.jpg" group-title="甘肃",甘肃都市调频
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 tvg-name="甘肃黄河之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gs/甘肃黄河之声.png" group-title="甘肃",甘肃黄河之声
+https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1 tvg-name="甘肃交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gs/甘肃交通广播.jpg" group-title="甘肃",甘肃交通广播
+https://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="甘肃农村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gs/甘肃农村广播.png" group-title="甘肃",甘肃农村广播
+https://satellitepull.cnr.cn/live/wxgsncgb/playlist.m3u8
+#EXTINF:-1 tvg-name="甘肃青春调频" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gs/甘肃青春调频.jpg" group-title="甘肃",甘肃青春调频
+https://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="甘肃新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gs/甘肃新闻综合广播.jpg" group-title="甘肃",甘肃新闻综合
+https://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东城市之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东城市之声.jpg" group-title="广东",广东城市之声
+https://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
+#EXTINF:-1 tvg-name="广东股市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东股市广播.jpg" group-title="广东",广东股市广播
+https://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东南粤之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东南粤之声.jpg" group-title="广东",广东南粤之声
+https://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
+#EXTINF:-1 tvg-name="广东文体广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东文体广播.jpg" group-title="广东",广东文体广播
+https://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东电台新闻台.jpg" group-title="广东",广东新闻广播
+https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东音乐之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东音乐之声.jpg" group-title="广东",广东音乐之声
+https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+#EXTINF:-1 tvg-name="南方生活广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东南方生活广播.jpg" group-title="广东",南方生活广播
+https://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="深圳飞扬971" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/深圳飞扬971.jpg" group-title="广东",深圳飞扬971
+https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 tvg-name="深圳交通频率" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/深圳快乐1062.jpg" group-title="广东",深圳交通频率
+https://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
+#EXTINF:-1 tvg-name="深圳私家车" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/深圳私家车广播.jpg" group-title="广东",深圳私家车
+https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="羊城交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东羊城交通广播.jpg" group-title="广东",羊城交通广播
+https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+#EXTINF:-1 tvg-name="珠江经济台" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gd/广东珠江经济台.jpg" group-title="广东",珠江经济台
+https://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+#EXTINF:-1 tvg-name="广西对外广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gx/广西对外广播.png" group-title="广西",广西对外广播
+https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广西交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gx/广西交通广播.png" group-title="广西",广西交通广播
+https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广西教育生活" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gx/广西教育生活广播.png" group-title="广西",广西教育生活
+https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广西经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gx/广西经济广播.png" group-title="广西",广西经济广播
+https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广西人民广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gx/广西人民广播.png" group-title="广西",广西人民广播
+https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广西文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gx/广西文艺广播.png" group-title="广西",广西文艺广播
+https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+#EXTINF:-1 tvg-name="贵州都市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gz/贵州都市广播.png" group-title="贵州",贵州都市广播
+https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="贵州故事广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gz/贵州故事广播.jpg" group-title="贵州",贵州故事广播
+https://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="贵州经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gz/贵州经济广播.jpg" group-title="贵州",贵州经济广播
+https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="贵州旅游广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gz/贵州旅游广播.jpg" group-title="贵州",贵州旅游广播
+https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+#EXTINF:-1 tvg-name="贵州音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gz/贵州音乐广播.jpg" group-title="贵州",贵州音乐广播
+https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="贵州综合广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/gz/贵州综合广播.png" group-title="贵州",贵州综合广播
+https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="海南交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hi/海南交通广播.png" group-title="海南",海南交通广播
+https://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="海南新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hi/海南新闻广播.jpg" group-title="海南",海南新闻广播
+https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="海南音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hi/海南音乐广播.png" group-title="海南",海南音乐广播
+https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="河北交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/he/河北交通广播.jpg" group-title="河北",河北交通广播
+https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河北经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/he/河北经济广播.jpg" group-title="河北",河北经济广播
+https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河北生活广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/he/河北生活广播.png" group-title="河北",河北生活广播
+https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河北文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/he/河北文艺广播.jpg" group-title="河北",河北文艺广播
+https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 tvg-name="河北音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/he/河北音乐广播.jpg" group-title="河北",河北音乐广播
+https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="河北综合广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/he/河北综合广播.jpg" group-title="河北",河北综合广播
+https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河南经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ha/河南经济广播.jpg" group-title="河南",河南经济广播
+https://satellitepull.cnr.cn/live/wxhnjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河南旅游广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ha/河南旅游广播.jpg" group-title="河南",河南旅游广播
+https://satellitepull.cnr.cn/live/wxhnlygb/playlist.m3u8
+#EXTINF:-1 tvg-name="河南农村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ha/河南农村广播.jpg" group-title="河南",河南农村广播
+https://satellitepull.cnr.cn/live/wxhnncgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河南戏曲广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ha/河南戏曲广播.jpg" group-title="河南",河南戏曲广播
+https://satellitepull.cnr.cn/live/wxhnxqgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河南新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ha/河南新闻广播.jpg" group-title="河南",河南新闻广播
+https://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="河南信息广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ha/河南信息广播.jpg" group-title="河南",河南信息广播
+https://satellitepull.cnr.cn/live/wxhnxxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江爱家调频" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江爱家频道广播.jpg" group-title="黑龙江",黑龙江爱家调频
+https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江朝鲜语" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江朝语广播.jpg" group-title="黑龙江",黑龙江朝鲜语
+https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江高校广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江高校广播.jpg" group-title="黑龙江",黑龙江高校广播
+https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江交通广播.jpg" group-title="黑龙江",黑龙江交通广播
+https://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江女性广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江女性广播.jpg" group-title="黑龙江",黑龙江女性广播
+https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江私家车" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江私家车频道广播.png" group-title="黑龙江",黑龙江私家车
+https://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江乡村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江乡村广播.jpg" group-title="黑龙江",黑龙江乡村广播
+https://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江新闻广播.jpg" group-title="黑龙江",黑龙江新闻广播
+https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hl/黑龙江音乐广播.png" group-title="黑龙江",黑龙江音乐广播
+https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="楚天交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/楚天交通广播.jpg" group-title="湖北",楚天交通广播
+https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/楚天音乐广播.png" group-title="湖北",楚天音乐广播
+https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北妇女儿童" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北妇女儿童广播.png" group-title="湖北",湖北妇女儿童
+https://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北交通广播.png" group-title="湖北",湖北交通广播
+https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北经典音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北经典音乐广播.png" group-title="湖北",湖北经典音乐
+https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北经济广播.png" group-title="湖北",湖北经济广播
+https://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北农村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北农村广播.png" group-title="湖北",湖北农村广播
+https://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北生活广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北生活广播.png" group-title="湖北",湖北生活广播
+https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北资讯广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北资讯广播.png" group-title="湖北",湖北资讯广播
+https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hb/湖北之声.jpg" group-title="湖北",湖北之声
+https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hn/湖南交通广播.png" group-title="湖南",湖南交通广播
+https://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hn/湖南金鹰之声.jpg" group-title="湖南",湖南金鹰之声
+https://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hn/湖南经济广播.jpg" group-title="湖南",湖南经济广播
+https://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南年代音乐台" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hn/湖南年代音乐台.jpg" group-title="湖南",湖南年代音乐台
+https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hn/湖南文艺广播.png" group-title="湖南",湖南文艺广播
+https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南潇湘之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hn/湖南电台潇湘之声.png" group-title="湖南",湖南潇湘之声
+https://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/hn/湖南电台新闻频道.jpg" group-title="湖南",湖南新闻广播
+https://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="吉林交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jl/吉林交通广播.jpg" group-title="吉林",吉林交通广播
+https://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="吉林经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jl/吉林经济广播.jpg" group-title="吉林",吉林经济广播
+https://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="吉林乡村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jl/吉林乡村广播.jpg" group-title="吉林",吉林乡村广播
+https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="吉林新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jl/吉林新闻综合广播.jpg" group-title="吉林",吉林新闻综合
+https://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="延边文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jl/延边文艺生活广播.jpg" group-title="吉林",延边文艺广播
+https://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="延边新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/jl/延边新闻广播.jpg" group-title="吉林",延边新闻广播
+https://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏财经广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏财经广播.jpg" group-title="江苏",江苏财经广播
+https://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏故事广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏故事广播.jpg" group-title="江苏",江苏故事广播
+https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏健康广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏健康广播.jpg" group-title="江苏",江苏健康广播
+https://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏交通广播.jpg" group-title="江苏",江苏交通广播
+https://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏金陵之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏金陵之声.jpg" group-title="江苏",江苏金陵之声
+https://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏经典流行音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏经典流行音乐.jpg" group-title="江苏",江苏经典流行音乐
+https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏文艺广播.jpg" group-title="江苏",江苏文艺广播
+https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏新闻广播.jpg" group-title="江苏",江苏新闻广播
+https://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏新闻综合.jpg" group-title="江苏",江苏新闻综合
+https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="江苏音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/js/江苏音乐广播.jpg" group-title="江苏",江苏音乐广播
+https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="辽宁交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ln/辽宁交通广播.png" group-title="辽宁",辽宁交通广播
+https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="辽宁经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ln/辽宁经济广播.png" group-title="辽宁",辽宁经济广播
+https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+#EXTINF:-1 tvg-name="辽宁文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ln/辽宁文艺广播.png" group-title="辽宁",辽宁文艺广播
+https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+#EXTINF:-1 tvg-name="辽宁乡村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ln/辽宁乡村广播.png" group-title="辽宁",辽宁乡村广播
+https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="辽宁之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/ln/辽宁综合广播.jpg" group-title="辽宁",辽宁之声
+https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古汉语广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nm/内蒙古汉语广播.jpg" group-title="内蒙古",内蒙古汉语广播
+https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古交通之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nm/内蒙古交通之声广播.jpg" group-title="内蒙古",内蒙古交通之声
+https://satellitepull.cnr.cn/live/wx32nmgjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nm/内蒙古经济生活广播.png" group-title="内蒙古",内蒙古经济生活
+https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古绿野之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nm/内蒙古绿野之声广播.png" group-title="内蒙古",内蒙古绿野之声
+https://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古评书曲艺" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nm/内蒙古评书曲艺广播.png" group-title="内蒙古",内蒙古评书曲艺
+https://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古音乐之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nm/内蒙古音乐之声.jpg" group-title="内蒙古",内蒙古音乐之声
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="宁夏都市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nx/宁夏都市广播.jpg" group-title="宁夏",宁夏都市广播
+https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="宁夏经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nx/宁夏经济广播.jpg" group-title="宁夏",宁夏经济广播
+https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="宁夏旅游广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nx/宁夏旅游广播.jpg" group-title="宁夏",宁夏旅游广播
+https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="宁夏新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nx/宁夏新闻广播.jpg" group-title="宁夏",宁夏新闻广播
+https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="宁夏音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/nx/宁夏音乐广播.jpg" group-title="宁夏",宁夏音乐广播
+https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="青海交通音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/qh/青海交通音乐广播.jpg" group-title="青海",青海交通音乐
+https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="青海经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/qh/青海经济广播.jpg" group-title="青海",青海经济广播
+https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="青海之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/qh/青海之声.png" group-title="青海",青海之声
+https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sd/山东交通广播.jpg" group-title="山东",山东交通广播
+https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="山东经典音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sd/山东经典音乐广播.jpg" group-title="山东",山东经典音乐
+https://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
+#EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sd/山东经济广播.jpg" group-title="山东",山东经济广播
+https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sd/山东体育休闲广播.jpg" group-title="山东",山东体育休闲
+https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="山东文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sd/山东文艺广播.jpg" group-title="山东",山东文艺广播
+https://satellitepull.cnr.cn/live/wxsdwyssgb/playlist.m3u8
+#EXTINF:-1 tvg-name="山东乡村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sd/山东乡村广播.jpg" group-title="山东",山东乡村广播
+https://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="山东音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sd/山东音乐广播.jpg" group-title="山东",山东音乐广播
+https://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8
+#EXTINF:-1 tvg-name="山西综合广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sx/山西综合广播.png" group-title="山西",山西综合广播
+https://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西都市广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西都市广播.png" group-title="陕西",陕西都市广播
+https://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西交通广播.png" group-title="陕西",陕西交通广播
+https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西经济广播.png" group-title="陕西",陕西经济广播
+https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西农村广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西农村广播.png" group-title="陕西",陕西农村广播
+https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西青春广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西青春广播.png" group-title="陕西",陕西青春广播
+https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西戏曲广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西戏曲广播.png" group-title="陕西",陕西戏曲广播
+https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西新闻广播.png" group-title="陕西",陕西新闻广播
+https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sn/陕西音乐广播.jpg" group-title="陕西",陕西音乐广播
+https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="上海东方广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sh/上海东方广播电台.png" group-title="上海",上海东方广播
+https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 tvg-name="上海新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sh/上海新闻广播.jpg" group-title="上海",上海新闻广播
+https://satellitepull.cnr.cn/live/wx32shrmgb/playlist.m3u8
+#EXTINF:-1 tvg-name="第一财经广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sh/第一财经广播.png" group-title="上海",第一财经广播
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="四川城市之音" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川城市之音.jpg" group-title="四川",四川城市之音
+https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+#EXTINF:-1 tvg-name="四川交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川交通广播.jpg" group-title="四川",四川交通广播
+https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="四川经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川经济广播.png" group-title="四川",四川经济广播
+https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="四川民族频率" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川民族频率.jpg" group-title="四川",四川民族频率
+https://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
+#EXTINF:-1 tvg-name="四川岷江音乐" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川岷江音乐广播.jpg" group-title="四川",四川岷江音乐
+https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+#EXTINF:-1 tvg-name="四川私家车925" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川私家车925.jpg" group-title="四川",四川私家车925
+https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+#EXTINF:-1 tvg-name="四川文艺广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川文艺广播.jpg" group-title="四川",四川文艺广播
+https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+#EXTINF:-1 tvg-name="四川新闻频率" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川新闻频率.png" group-title="四川",四川新闻频率
+https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="四川综合广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sc/四川综合广播.png" group-title="四川",四川综合广播
+https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+#EXTINF:-1 tvg-name="西藏都市生活" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xz/西藏都市生活广播.png" group-title="西藏",西藏都市生活
+https://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="西藏对外交通" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xz/" group-title="西藏",西藏对外交通
+https://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="西藏汉语广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xz/" group-title="西藏",西藏汉语广播
+https://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
+#EXTINF:-1 tvg-name="兵团综合广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xj/新疆兵团综合广播.jpg" group-title="新疆",兵团综合广播
+https://satellitepull.cnr.cn/live/wxbtzs/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆交通广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xj/新疆交通广播.jpg" group-title="新疆",新疆交通广播
+https://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆绿色广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xj/" group-title="新疆",新疆绿色广播
+https://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆私家车广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xj/" group-title="新疆",新疆私家车广播
+https://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/xj/新疆新闻广播.jpg" group-title="新疆",新疆新闻广播
+https://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="香格里拉之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南香格里拉之声FM99.jpg" group-title="云南",香格里拉之声
+https://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+#EXTINF:-1 tvg-name="云南交通之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南交通广播.png" group-title="云南",云南交通之声
+https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="云南国际广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南国际广播.png" group-title="云南",云南国际广播
+https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
+#EXTINF:-1 tvg-name="云南教育广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南教育广播.jpg" group-title="云南",云南教育广播
+https://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
+#EXTINF:-1 tvg-name="云南经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南经济广播.jpg" group-title="云南",云南经济广播
+https://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="云南民族广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南民族广播.jpg" group-title="云南",云南民族广播
+https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+#EXTINF:-1 tvg-name="云南新闻广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南新闻广播.jpg" group-title="云南",云南新闻广播
+https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="云南音乐广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/yn/云南音乐广播.png" group-title="云南",云南音乐广播
+https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江城市之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/zj/浙江城市之声.jpg" group-title="浙江",浙江城市之声
+https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江交通之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/zj/浙江交通之声.png" group-title="浙江",浙江交通之声
+https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江经济广播" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/zj/浙江经济广播.jpg" group-title="浙江",浙江经济广播
+https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江民生996" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/zj/浙江民生996.jpg" group-title="浙江",浙江民生996
+https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江女主播电台" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/zj/浙江女主播电台.png" group-title="浙江",浙江女主播电台
+https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江悦动之音" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/zj/浙江悦动之音.jpg" group-title="浙江",浙江悦动之音
+https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江之声" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/zj/浙江之声.jpg" group-title="浙江",浙江之声
+https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+#EXTINF:-1 tvg-name="每日歌曲" tvg-logo="https://huangsuming.codeberg.page/logo/radio/local/sao/每日歌曲.jpg" group-title="思奥",每日歌曲
+https://lhttp.qingting.fm/live/5021381/64k.mp3
