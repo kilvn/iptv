@@ -1,0 +1,121 @@
+name: Auto Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1,9,17 * * *'
+  push:
+    paths-ignore:
+      - 。github
+      - 。gitignore
+      - LICENSE
+      - logo.png
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            branch: master
+            owner: kilvn
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check Repository Owner
+        id: check_owner
+        run: |
+          if [ "${{ github.repository_owner }}" != "${{ matrix.owner }}" ]; then
+            echo "Repository owner is not ${{ matrix.owner }}. Cancelling the job."
+            exit 1
+          fi
+
+      - name: GetTime
+        run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST' | sed 's/ CST$//')" >> $GITHUB_ENV
+
+      - name: Update Files
+        run: |
+          rm -f fanmingming.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O fanmingming.m3u
+
+          # 央视源
+          cat fanmingming.m3u > CCTV.m3u
+          sed -i -n '/央视频道/,+1p' CCTV.m3u
+          sed -i '/^\s*$/d' CCTV.m3u
+          
+          # 卫视源、地方频道、数字频道、港澳台
+          cat fanmingming.m3u > CNTV1.m3u && sed -i -n '/卫视频道/,+1p' CNTV1.m3u
+          cat fanmingming.m3u > CNTV2.m3u && sed -i -n '/数字频道/,+1p' CNTV2.m3u
+          rm -f zbds.m3u && wget https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u -O zbds.m3u
+          cat zbds.m3u > CNTV3.m3u && sed -i -n '/地方频道/,+1p' CNTV3.m3u
+          cat zbds.m3u > CHC.m3u && sed -i -n '/电影频道/,+1p' CHC.m3u && sed -i -n '/CHC/,+1p' CHC.m3u
+          # cat zbds.m3u > ZBZG.m3u && sed -i -n '/直播中国/,+1p' ZBZG.m3u
+          # wget https://raw.githubusercontent.com/yan-sheng-li/tvhub/main/tv.txt -O ZBZG.m3u && sed -i -n '/直播中国/,+1p' ZBZG.m3u
+          cat live-china.m3u > ZBZG.m3u
+          wget https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u -O GAT.m3u && sed -i '/#港澳台/d' GAT.m3u && sed -i '/爱尔达/d' GAT.m3u && sed -i -n '/港澳台/,+1p' GAT.m3u
+          cat CNTV1.m3u >> CNTV.m3u
+          cat CNTV3.m3u >> CNTV.m3u
+          cat CHC.m3u >> CNTV.m3u
+          cat CNTV2.m3u >> CNTV.m3u
+          cat GAT.m3u >> CNTV.m3u
+          echo "" >> CNTV.m3u
+          cat ZBZG.m3u >> CNTV.m3u
+          rm -f CNTV1.m3u CNTV2.m3u CNTV3.m3u CHC.m3u GAT.m3u ZBZG.m3u fanmingming.m3u zbds.m3u
+          sed -i '/^\s*$/d' CNTV.m3u
+          
+          # 整合源
+          cat CCTV.m3u > iptv.m3u
+          cat CNTV.m3u >> iptv.m3u
+          sed -i '/#EXTM3U/d' iptv.m3u
+          sed -i '1i #EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' iptv.m3u
+          sed -i 's|"https://raw.githubusercontent.com|"https://ghproxy.kilvn.com/https://raw.githubusercontent.com|g' iptv.m3u
+          sed -i '/^\s*$/d' iptv.m3u
+
+          # 大人源
+          rm -f Adult.m3u && wget http://adultiptv.net/chs.m3u -O Adult.m3u
+          sed -i -n '/XXX/,+1p' Adult.m3u
+          sed -i 's/XXX/成人频道/' Adult.m3u
+          sed -i 's/AdultIPTV.net //g' Adult.m3u
+          sed -i '/^\s*$/d' Adult.m3u
+          
+          cat iptv.m3u > iptv+.m3u
+          echo "" >> iptv+.m3u
+          cat Adult.m3u >> iptv+.m3u
+          sed -i '/^\s*$/d' iptv+.m3u
+          
+          rm -f CCTV.m3u CNTV.m3u Adult.m3u
+
+          # FM源
+          rm -f radio.m3u && wget https://raw.githubusercontent.com/huangsuming/iptv/main/list/radio.txt -O radio.m3u
+          
+          # 节目源
+          rm -f epg.xml && wget https://epg.112114.xyz/pp.xml -O epg.xml
+
+          sed -i 's/中国教育1台/CETV-1/g' epg.xml
+          sed -i 's/中国教育2台/CETV-2/g' epg.xml
+          sed -i 's/中国教育3台/CETV-3/g' epg.xml
+          sed -i 's/中国教育4台/CETV-4/g' epg.xml
+          sed -i '/<channel id="中国教育一套">/,/<\/channel>/d; /<programme channel="中国教育一套".*>/,/<\/programme>/d' epg.xml
+          
+          rm -f epg.xml.gz && gzip -k epg.xml
+          
+          # README
+          sed -i "s/已于 [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\} [0-9]\{2\}:[0-9]\{2\}:[0-9]\{2\} 自动更新/已于 ${DATE} 自动更新/g" README.md
+
+      - name: Commit
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout --orphan latest_branch
+          git add -A
+          git commit -am "${DATE} 更新."
+          git branch -D ${{ matrix.branch }}
+          git branch -m ${{ matrix.branch }}
+
+      - name: Push
+        run: git push -f origin ${{ matrix.branch }}
